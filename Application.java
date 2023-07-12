@@ -22,6 +22,23 @@ class Main {
       e.getStackTrace();
     }
   }
+
+  # feature202 changes made by Ana on CreditCards Module
+  public static void main(String[] args) {
+
+    // creates a file object
+    File file = new File("file.txt");
+
+    // deletes the file
+    boolean value = file.delete();
+    if(value) {
+      System.out.println("The File is deleted.");
+    }
+    else {
+      System.out.println("The File is not deleted.");
+    }
+  }
+
   #feature201 changes made by John for ICICI Bank Project 
   public static void main(String[] args) {
 
@@ -42,4 +59,5 @@ class Main {
       e.getStackTrace();
     }
 	
+
 }
