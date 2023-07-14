@@ -10,7 +10,12 @@ payment gateway feature
 
 new modifcations for git adv .commands
 
+<<<<<<< HEAD
 working on banking domain application
 creditcard reports
 customized reports
 monthly credit card reports
+=======
+CodeConflicts in few files in the repository
+dev team working on it to fix the bugs
+>>>>>>> 69b9daecd5e311475f5cd16835cc9959376fe2cb
