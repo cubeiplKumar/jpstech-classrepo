@@ -1,3 +1,8 @@
 Git is simply a lightweight pointer to 
 commit the code into repository.
 default branch name in git is Master/main (default)
+second modifications
+Build tools like Maven
+ANT
+MSBuild 
+used in the project
