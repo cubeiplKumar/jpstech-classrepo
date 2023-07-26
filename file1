@@ -25,3 +25,7 @@ CONTINUOUS INTEGRATION CRON EXPRESSIONS IS DIFFER WITH AS PER THEIR ORGANIZAITON
 
 The monolithic all-or-nothing paradigm of traditional waterfall software development has largely been 
 replaced by rapid iterative techniques that support development and release.
+
+
+#CI job changes
+Jenkins jobs which need to be build periodically or by special schedules .
