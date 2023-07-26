@@ -29,3 +29,7 @@ replaced by rapid iterative techniques that support development and release.
 
 #CI job changes
 Jenkins jobs which need to be build periodically or by special schedules .
+
+#WEBHOOK JOB CONFIGURATION
+WHEN THERE IS ANY CHANGE OR MODIFICATION IN THE GITHUB REPOSITORY FILES,
+JENKINS WILL TRIGGER AND FETCH THE LATEST CODE FROM GITHUB INTO JENKINS SERVER
